@@ -17,7 +17,7 @@ services:
       - ./db:/var/lib/postgresql/data
 
   pg-admin:
-    image: dpage/pgadmin4:8.6
+    image: dpage/pgadmin4:8.13
     ports:
       - "8080:80"
     environment:
