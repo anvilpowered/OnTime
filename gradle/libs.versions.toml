@@ -8,7 +8,7 @@ anvil-core = { module = "org.anvilpowered:anvil-core", version.ref = "anvil" }
 anvil-paper = { module = "org.anvilpowered:anvil-paper", version.ref = "anvil" }
 anvil-velocity = { module = "org.anvilpowered:anvil-velocity", version.ref = "anvil" }
 arrow-core = "io.arrow-kt:arrow-core:1.2.2"
-driver-mariadb = "org.mariadb.jdbc:mariadb-java-client:3.3.3"
+driver-mariadb = "org.mariadb.jdbc:mariadb-java-client:3.5.1"
 driver-postgresql = "org.postgresql:postgresql:42.7.2"
 exposed-bom = "org.jetbrains.exposed:exposed-bom:0.50.1"
 exposed-core = { module = "org.jetbrains.exposed:exposed-core" }
