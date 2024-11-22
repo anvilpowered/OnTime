@@ -6,7 +6,7 @@ name: ontime-paper
 
 services:
   db:
-    image: postgres:15.6
+    image: postgres:15.10
     ports:
       - "5432:5432"
     environment:
