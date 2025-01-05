@@ -25,7 +25,7 @@ services:
       PGADMIN_DEFAULT_PASSWORD: ontime
 
   lp:
-    image: ghcr.io/luckperms/luckperms:v5.4.134
+    image: ghcr.io/luckperms/luckperms:v5.4.152
     environment:
       LUCKPERMS_STORAGE_METHOD: postgresql
       LUCKPERMS_DATA_ADDRESS: db
